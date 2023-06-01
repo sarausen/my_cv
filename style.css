@@ -523,5 +523,85 @@ footer .text span a:hover{
     color:var(--primary-color);
   }
 }
-        
-      
+
+
+/* Стили для ссылки на Telegram */
+.telegram-link {
+  color: #0E2431; /* Цвет ссылки */
+  text-decoration: none; /* Убрать подчеркивание */
+  font-size: 40px;
+  transition: color 0.3s ease; /* Плавное изменение цвета при наведении */
+}
+
+.telegram:hover {
+    transform: skewX(-20deg); /* Наклон при наведении */
+}
+
+/* Стили для ссылки на LinkedIn */
+.linkedin-link {
+  color: #0E2431; /* Цвет ссылки */
+  text-decoration: none; /* Убрать подчеркивание */
+  font-size: 40px;
+  transition: color 0.3s ease; /* Плавное изменение цвета при наведении */
+}
+
+.linkedin-link:hover {
+  color: #ff9933; /* Цвет ссылки при наведении */
+  transform: rotate(360deg); /* Вращение при наведении */
+}
+.linkedin:hover {
+    transform: skewX(-20deg); /* Наклон при наведении */
+}
+.linkedin {
+  padding-left: 340px;
+  padding-top: 20px;
+}
+
+/* Стили для ссылки на электронную почту */
+.email-link {
+  color: #0E2431; /* Цвет ссылки */
+  text-decoration: none; /* Убрать подчеркивание */
+  font-size: 40px; /* Размер шрифта */
+  transition: border-color 0.3s ease; /* Плавное изменение цвета при наведении */
+}
+
+.email:hover {
+  border-color: #ff0000; /* Цвет подчеркивания при наведении */
+  transform: skewX(-20deg); /* Наклон при наведении */
+}
+
+.email {
+  padding-left: 680px;
+  padding-top: 20px;
+}
+
+.line {
+  height: 2px;
+  width: 300px;
+  background-color: #0E2431;
+  transition: width 0.3s ease; /* Плавное изменение ширины при наведении */
+}
+
+.line:hover {
+  width: 500px; /* Увеличение ширины при наведении */
+}
+
+.contact {
+    padding-bottom: 70px;
+}
+
+/* Адаптивные стили */
+@media (max-width: 768px) {
+    .contact {
+      padding-bottom: 20px;
+    }
+  
+    .telegram, .linkedin, .email {
+      display: block;
+      padding-left: 0;
+      text-align: center;
+    }
+    .line {
+        align-items: center;
+    }
+}

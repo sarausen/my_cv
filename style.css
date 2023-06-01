@@ -222,9 +222,16 @@ section .title span::after{
 }
 .about .left img{
   height:270px;
-  width:300px;
+  width:270px;
   object-fit: cover;
   border-radius: 12px;
+}
+.name {
+    font-size: 34px;
+    font-weight: 200;
+}
+.profession {
+    padding-bottom: 30px;
 }
 .about .about-details .right{
   width:55%;

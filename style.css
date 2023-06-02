@@ -546,7 +546,7 @@ footer .text span a:hover{
 }
 
 .linkedin-link:hover {
-  color: #ff9933; /* Цвет ссылки при наведении */
+  color: #ff8882; /* Цвет ссылки при наведении */
   transform: rotate(360deg); /* Вращение при наведении */
 }
 .linkedin:hover {
@@ -566,7 +566,6 @@ footer .text span a:hover{
 }
 
 .email:hover {
-  border-color: #ff0000; /* Цвет подчеркивания при наведении */
   transform: skewX(-20deg); /* Наклон при наведении */
 }
 

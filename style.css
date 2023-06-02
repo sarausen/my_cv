@@ -567,6 +567,7 @@ footer .text span a:hover{
 
 .email:hover {
   transform: skewX(-20deg); /* Наклон при наведении */
+  color: #ff8882;
 }
 
 .email {

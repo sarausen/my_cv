@@ -8,7 +8,7 @@
   scroll-behavior: smooth;
 }
 :root{
-    --primary-color: #ff8882;
+    --primary-color: #79489f;
     --black-color:#0E2431;
     --white-color:#fff;
 
@@ -269,7 +269,7 @@ section .button button:hover{
 
 /* My Skills CSS */
 .skills{
-  background:#f0f8ff;
+  background:#dcdceb;
 }
 .skills .content{
   padding:40px 0;
@@ -365,7 +365,7 @@ section .button button:hover{
 
 /* Contact Me CSS */
 .contact{
-  background: #f0f8ff;
+  background: #dcdceb;
 }
 .contact .content{
   margin:0 auto;

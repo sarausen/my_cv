@@ -39,7 +39,8 @@ nav{
   padding:20px 0;
   z-index: 999;
   transition: all 0.3s ease;
-  background: white;
+  background: #dcdceb;
+  
 }
 nav.sticky{
   background: var(--primary-color);

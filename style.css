@@ -40,7 +40,7 @@ nav{
   z-index: 999;
   transition: all 0.3s ease;
   background: #dcdceb;
-  
+
 }
 nav.sticky{
   background: var(--primary-color);
@@ -282,6 +282,8 @@ section .button button:hover{
 }
 .skills-details .text{
   width:50%;
+  font-size: 24px;
+  padding-left: 20px;
 }
 .skills-details p{
   color:var(--black-color);

@@ -541,6 +541,7 @@ footer .text span a:hover{
 
 .telegram:hover {
     transform: skewX(-20deg); /* Наклон при наведении */
+    color: #79489f;
 }
 
 /* Стили для ссылки на LinkedIn */
@@ -552,7 +553,7 @@ footer .text span a:hover{
 }
 
 .linkedin-link:hover {
-  color: #ff8882; /* Цвет ссылки при наведении */
+  color: #79489f; /* Цвет ссылки при наведении */
   transform: rotate(360deg); /* Вращение при наведении */
 }
 .linkedin:hover {
@@ -573,7 +574,10 @@ footer .text span a:hover{
 
 .email:hover {
   transform: skewX(-20deg); /* Наклон при наведении */
-  color: #ff8882;
+  color: #79489f;
+}
+.email-link:hover {
+    color: #79489f;
 }
 
 .email {

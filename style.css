@@ -543,6 +543,9 @@ footer .text span a:hover{
     transform: skewX(-20deg); /* Наклон при наведении */
     color: #79489f;
 }
+.telegram-link:hover {
+    color: #79489f;
+}
 
 /* Стили для ссылки на LinkedIn */
 .linkedin-link {

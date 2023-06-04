@@ -442,7 +442,7 @@ footer .text span a:hover{
   }
 }
 @media (max-width:900px){
-  .about .left img{
+  .about .left fhoto.jpg{
     height:350px;
     width:350px;
   }
@@ -584,7 +584,7 @@ footer .text span a:hover{
 }
 
 .email {
-  padding-left: 500px;
+  padding-left: 400px;
   padding-top: 20px;
 }
 
@@ -616,5 +616,6 @@ footer .text span a:hover{
     }
     .line {
         align-items: center;
+        width: 200px;
     }
 }

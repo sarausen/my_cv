@@ -563,8 +563,8 @@ footer .text span a:hover{
     transform: skewX(-20deg); /* Наклон при наведении */
 }
 .linkedin {
-  padding-left: 340px;
-  padding-top: 20px;
+  /* padding-left: 340px; */
+  padding-top: 30px;
 }
 
 /* Стили для ссылки на электронную почту */
@@ -584,7 +584,7 @@ footer .text span a:hover{
 }
 
 .email {
-  padding-left: 680px;
+  padding-left: 500px;
   padding-top: 20px;
 }
 

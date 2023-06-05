@@ -384,12 +384,12 @@ section .button button:hover{
 }
 
 /* Footer CSS */
-footer{
+/* footer{
   background:var(--primary-color);
   padding:15px 0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
-}
+} */
 footer .text span{
   font-size: 17px;
   font-weight: 400;

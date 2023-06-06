@@ -271,9 +271,11 @@ section .button button:hover{
 /* My Skills CSS */
 .skills{
   background:#dcdceb;
+  padding-top: 2px;
 }
 .skills .content{
-  padding:40px 0;
+  /* padding:40px 0; */
+  padding-bottom: 50px;
 }
 .skills .skills-details{
   display:flex;
@@ -332,6 +334,7 @@ section .button button:hover{
    display:flex; 
    flex-wrap: wrap;
    justify-content:space-between;
+   padding-top: 0px;
 }
 .services .boxes .box{
   margin:20px 0;

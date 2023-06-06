@@ -386,13 +386,6 @@ section .button button:hover{
   margin:auto;
 }
 
-/* Footer CSS */
-/* footer{
-  background:var(--primary-color);
-  padding:15px 0;
-  text-align: center;
-  font-family: 'Poppins', sans-serif;
-} */
 footer .text span{
   font-size: 17px;
   font-weight: 400;
@@ -532,7 +525,6 @@ footer .text span a:hover{
     color:var(--primary-color);
   }
 }
-
 
 /* Стили для ссылки на Telegram */
 .telegram-link {

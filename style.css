@@ -562,7 +562,7 @@ footer .text span a:hover{
 }
 
 .email-link {
-  color: #0E2431; /* Цвет ссылки */
+  color: #4e87a9; /* Цвет ссылки */
   text-decoration: none; /* Убрать подчеркивание */
   font-size: 40px; /* Размер шрифта */
   transition: border-color 0.3s ease; /* Плавное изменение цвета при наведении */

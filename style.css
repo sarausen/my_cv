@@ -558,10 +558,8 @@ footer .text span a:hover{
     transform: skewX(-20deg); /* Наклон при наведении */
 }
 .linkedin {
-  /* padding-left: 340px; */
   padding-top: 30px;
 }
-
 
 .email-link {
   color: #0E2431; /* Цвет ссылки */
